@@ -58,3 +58,7 @@ htmlcov/
 .pytest_cache/
 
 .claude/
+backend/railway_data.json
+railway_data.json
+railway_data_old.json
+railway_data_clean.json
